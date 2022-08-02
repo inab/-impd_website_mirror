@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About us on IMPaCT-Data. Infraestructura de Medicina de Precisión asociada a la Ciencia y la Tecnología</title>
+    <link>http://impact-data.bsc.es/en/about/</link>
+    <description>Recent content in About us on IMPaCT-Data. Infraestructura de Medicina de Precisión asociada a la Ciencia y la Tecnología</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="http://impact-data.bsc.es/en/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IMPaCT</title>
+      <link>http://impact-data.bsc.es/en/about/impact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/en/about/impact/</guid>
+      <description>Mission IMPaCT has the mission is to establish the pillars to facilitate the effective use of Precision Medicine in the Spanish Health System, ensuring scientific-technical quality, equity and efficiency in the use of available scientific resources to respond to the needs of the population. citizenship.
+Vision Become a reference scientific infrastructure for the development of Precision Medicine in Spain for safer, more efficient, preventive and predictive medicine.</description>
+    </item>
+    
+    <item>
+      <title>IMPaCT - Data</title>
+      <link>http://impact-data.bsc.es/en/about/impact-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/en/about/impact-data/</guid>
+      <description>Mision IMPaCT-Data is the program of IMPaCT (Iinfrastructure of Medicine of Precision associated with Science and * *T**echnology) that is oriented towards the development and validation of an environment for the integration and joint analysis of clinical, molecular and genetic data, for its secondary use in coordination with the other IMPaCT programs. Similarly, this program will generate models that allow for an efficient response to relevant questions for the SNS, promoting the generation of high-level knowledge based on these approaches.</description>
+    </item>
+    
+    <item>
+      <title>Job Offers</title>
+      <link>http://impact-data.bsc.es/en/about/joboffers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/en/about/joboffers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Partners</title>
+      <link>http://impact-data.bsc.es/en/about/partners/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/en/about/partners/</guid>
+      <description>Partners  Collaborators   Centro Nacional de Supercomputación - Centro Nacional de Supercomputación
+Cataluña
+  Fundación Centro de Investigación Príncipe Felipe
+Comunidad Valenciana
+  Fundación Centro Nacional de Investigaciones Cardiovasculares
+Comunidad de Madrid
+  Fundación Centro Nacional de Investigaciones Oncológicas
+Comunidad de Madrid
+  Fundación Centro de Regulación Genómica
+Cataluña
+  Agencia Estatal Consejo Superior de Investigaciones Científicas
+Castilla y León
+  Agencia Estatal Consejo Superior de Investigaciones Científicas</description>
+    </item>
+    
+    <item>
+      <title>Roadmap</title>
+      <link>http://impact-data.bsc.es/en/about/roadmap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/en/about/roadmap/</guid>
+      <description>December 2021 - Technical Requirements   * The technical requirements for the different technologies needed are identified: * Technical requirements for the deployment of a local instance of EGA * Technical requirements for Beacon deployment for data discovery *State of Technology Practice for IMPaCT-Data Cloud Design * Definition of use cases June 2022 - Technical Demonstrator and State-of-the-Art  * Demonstration of the IMPaCT-Data federated cloud, deployed on multiple nodes and providing: * controlled user access * access to public data * test analysis workflow * State of the art of data annotation: * State of the art in clinical history data annotation * State of the art in image data annotation * State of the art in genomic data annotation * Clinical history, image and genomic data integration techniques * Good practice guides for the development of research software components * Recommendations on security aspects in the management of sensitive data * Definition of interfaces EGA community instances September 2022 - Tools Catalogues  Different software tools are compiled for the analysis of genomic, clinical history and image data: * Catalog of software tools * Catalog of virtualized software tools to be executed * Workflow catalog Diciembre 2022 - IMPaCT-Data Cloud (access to data)  * Initial version of the IMPaCT-Data cloud including: * access to public data and controlled access * tools and workflow for the analysis of genomic data, clinical history and image (not integrated) * Definition of the use case evaluation strategy June 2023 - IMPaCT-Data Cloud (access to integrated data)  * Consolidated version of IMPaCT-Data cloud to be tested by project members * Demonstrator of the integration of genomic, clinical history and image data * Use cases in operation October 2023 - IMPaCT-Data Cloud (Proof-of-Concept)  * Final version of the IMPaCT-Data cloud proof of concept December 2023 - Project Finalisation  At the end of the project, deliverables have been planned with the final report of all the work packages.</description>
+    </item>
+    
+    <item>
+      <title>Work Plan</title>
+      <link>http://impact-data.bsc.es/en/about/workplan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/en/about/workplan/</guid>
+      <description>The IMPaCT-Data&amp;rsquo;s work plan is detailed in the IMPaCT Strategic Plan, available at the Carlos III Institute (ISCIII) website.
+The work is distributed in 6 work packages (WP for its acronym in English - Work package). Details of deliverables work packages are accessible in theproject deliverables.
+   WP1. COORDINATION   Project management.
+ Tasks: Coordination with the other two IMPaCT programs. Coordination with the health services of the Autonomous Communities.</description>
+    </item>
+    
+  </channel>
+</rss>

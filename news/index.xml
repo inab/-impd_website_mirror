@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Noticias y Eventos on IMPaCT-Data. Infraestructura de Medicina de Precisión asociada a la Ciencia y la Tecnología</title>
+    <link>http://impact-data.bsc.es/news/</link>
+    <description>Recent content in Noticias y Eventos on IMPaCT-Data. Infraestructura de Medicina de Precisión asociada a la Ciencia y la Tecnología</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 23 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://impact-data.bsc.es/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reunión de trabajo para mapear el modelo estándar de OMOP CDM con las especificaciones de Beacon</title>
+      <link>http://impact-data.bsc.es/news/202206_reuniontrabajo_omop_beacon/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/news/202206_reuniontrabajo_omop_beacon/</guid>
+      <description>El pasado 22 de junio se realizó la primera reunión en persona, con posibilidad de participar de manera remota, del grupo de trabajo OMOP CDM &amp;amp; Beacon de IMPaCT-Data. El encuentro se hizo en el Parc de Recerca Biomédica de Barcelona (PRRB) con la participaron de Miquel Àngel Mayer y Juan Manuel Ramírez del UPF/IMIM; Jordi Rambla y Babita Singh del CRG; Sergi Aguiló del BSC; y Alberto M. Parra del GENyO en remoto.</description>
+    </item>
+    
+    <item>
+      <title>IMPaCT-Data en el ELIXIR All Hands Meeting 2022</title>
+      <link>http://impact-data.bsc.es/news/202206_elixir_ahm2022/</link>
+      <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/news/202206_elixir_ahm2022/</guid>
+      <description>Una representación de socios del proyecto IMPaCT-Data tuvieron la oportunidad de informar sobre el proyecto y compartir los avances relativos al cloud biomédico en desarrollo durante el ELIXIR All Hands Meeting que tuvo lugar del 7 al 9 de junio en Amsterdam (Países Bajos).
+ELIXIR es la infraestructura paneuropea de datos biológicos y organizó su octava reunión comunitaria anual con el objetivo de unir los nodos de ELIXIR para discutir, reflexionar y avanzar en objetivos compartidos.</description>
+    </item>
+    
+    <item>
+      <title>Jornada de RI en Ciencias Biomédicas “El papel de las RIs en medicina personalizada”</title>
+      <link>http://impact-data.bsc.es/news/202206_jornadari/</link>
+      <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/news/202206_jornadari/</guid>
+      <description>Las Infraestructuras de Investigación (RIs) en Ciencias Biomédicas BBMRI, ERINHA, EATRIS, ECRIN, ELIXIR, EU-OPENSCREEN, INFRAFRONTIER e INSTRUCT, con el apoyo del Ministerio de Ciencia, os invitamos a la jornada Jornada de RIs en Ciencias Biomédicas “El papel de las RIs en medicina personalizada” con el objetivo de informar a la comunidad investigadora sobre el papel relevante de estas infraestructuras de investigación en el desarrollo e implantación de la medicina personalizada, y los recursos que pueden ofrecer, así como el papel que juegan en el programa Horizonte Europa.</description>
+    </item>
+    
+    <item>
+      <title>GA4GH 10th Plenary meeting</title>
+      <link>http://impact-data.bsc.es/news/202209_ga4gh2022_plenary/</link>
+      <pubDate>Sun, 05 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/news/202209_ga4gh2022_plenary/</guid>
+      <description>La décima reunión plenaria de la Global Alliance for Genomics and Health (GA4GH) se realizará del 22 al 23 de septiembre de 2022 en el CosmoCaixa en Barcelona, España.
+El evento reunirá a aquellas instituciones y actores de la comunidad interesados en la genómica y la salud. El programa incluye dos días repletos de conferencias magistrales, charlas y talleres que centrados en cuestiones relacionadas con el intercambio de datos clínicos y genómicos.</description>
+    </item>
+    
+    <item>
+      <title>ECCB2022 - 21st European Conference on Computational Biology</title>
+      <link>http://impact-data.bsc.es/news/202209_eccb2022/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/news/202209_eccb2022/</guid>
+      <description>El Comité Organizador del ECCB2022 les invita a participar en la 21ª edición de la European Conference on Computational Biology con el lema Salud Planetaria y Biodiversidad, que tendrá lugar del 12 al 21 de septiembre de 2022 en la ciudad de Sitges (Barcelona, España).
+El ECCB2022 es uno los principales congresos del año en Bioinformática y Biología Computacional que se celebra en toda Europa, reuniendo a científicos de un amplio abanico de disciplinas.</description>
+    </item>
+    
+  </channel>
+</rss>

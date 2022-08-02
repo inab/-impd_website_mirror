@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on IMPaCT-Data. Infraestructura de Medicina de Precisión asociada a la Ciencia y la Tecnología</title>
+    <link>http://impact-data.bsc.es/</link>
+    <description>Recent content in Home on IMPaCT-Data. Infraestructura de Medicina de Precisión asociada a la Ciencia y la Tecnología</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 23 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://impact-data.bsc.es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reunión de trabajo para mapear el modelo estándar de OMOP CDM con las especificaciones de Beacon</title>
+      <link>http://impact-data.bsc.es/news/202206_reuniontrabajo_omop_beacon/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/news/202206_reuniontrabajo_omop_beacon/</guid>
+      <description>El pasado 22 de junio se realizó la primera reunión en persona, con posibilidad de participar de manera remota, del grupo de trabajo OMOP CDM &amp;amp; Beacon de IMPaCT-Data. El encuentro se hizo en el Parc de Recerca Biomédica de Barcelona (PRRB) con la participaron de Miquel Àngel Mayer y Juan Manuel Ramírez del UPF/IMIM; Jordi Rambla y Babita Singh del CRG; Sergi Aguiló del BSC; y Alberto M. Parra del GENyO en remoto.</description>
+    </item>
+    
+    <item>
+      <title>IMPaCT-Data en el ELIXIR All Hands Meeting 2022</title>
+      <link>http://impact-data.bsc.es/news/202206_elixir_ahm2022/</link>
+      <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/news/202206_elixir_ahm2022/</guid>
+      <description>Una representación de socios del proyecto IMPaCT-Data tuvieron la oportunidad de informar sobre el proyecto y compartir los avances relativos al cloud biomédico en desarrollo durante el ELIXIR All Hands Meeting que tuvo lugar del 7 al 9 de junio en Amsterdam (Países Bajos).
+ELIXIR es la infraestructura paneuropea de datos biológicos y organizó su octava reunión comunitaria anual con el objetivo de unir los nodos de ELIXIR para discutir, reflexionar y avanzar en objetivos compartidos.</description>
+    </item>
+    
+    <item>
+      <title>Jornada de RI en Ciencias Biomédicas “El papel de las RIs en medicina personalizada”</title>
+      <link>http://impact-data.bsc.es/news/202206_jornadari/</link>
+      <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/news/202206_jornadari/</guid>
+      <description>Las Infraestructuras de Investigación (RIs) en Ciencias Biomédicas BBMRI, ERINHA, EATRIS, ECRIN, ELIXIR, EU-OPENSCREEN, INFRAFRONTIER e INSTRUCT, con el apoyo del Ministerio de Ciencia, os invitamos a la jornada Jornada de RIs en Ciencias Biomédicas “El papel de las RIs en medicina personalizada” con el objetivo de informar a la comunidad investigadora sobre el papel relevante de estas infraestructuras de investigación en el desarrollo e implantación de la medicina personalizada, y los recursos que pueden ofrecer, así como el papel que juegan en el programa Horizonte Europa.</description>
+    </item>
+    
+    <item>
+      <title>GA4GH 10th Plenary meeting</title>
+      <link>http://impact-data.bsc.es/news/202209_ga4gh2022_plenary/</link>
+      <pubDate>Sun, 05 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/news/202209_ga4gh2022_plenary/</guid>
+      <description>La décima reunión plenaria de la Global Alliance for Genomics and Health (GA4GH) se realizará del 22 al 23 de septiembre de 2022 en el CosmoCaixa en Barcelona, España.
+El evento reunirá a aquellas instituciones y actores de la comunidad interesados en la genómica y la salud. El programa incluye dos días repletos de conferencias magistrales, charlas y talleres que centrados en cuestiones relacionadas con el intercambio de datos clínicos y genómicos.</description>
+    </item>
+    
+    <item>
+      <title>ECCB2022 - 21st European Conference on Computational Biology</title>
+      <link>http://impact-data.bsc.es/news/202209_eccb2022/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/news/202209_eccb2022/</guid>
+      <description>El Comité Organizador del ECCB2022 les invita a participar en la 21ª edición de la European Conference on Computational Biology con el lema Salud Planetaria y Biodiversidad, que tendrá lugar del 12 al 21 de septiembre de 2022 en la ciudad de Sitges (Barcelona, España).
+El ECCB2022 es uno los principales congresos del año en Bioinformática y Biología Computacional que se celebra en toda Europa, reuniendo a científicos de un amplio abanico de disciplinas.</description>
+    </item>
+    
+    <item>
+      <title>Artículos</title>
+      <link>http://impact-data.bsc.es/outcomes/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/outcomes/papers/</guid>
+      <description>Discovering potential interactions between rare diseases and COVID-19 by combining mechanistic models of viral infection with statistical modeling López-Sánchez M, Loucera C, Peña-Chilet M, Dopazo J. Human Molecular Genetics, Jan 2022, ddac007 (DOI: 10.1093/hmg/ddac007 )  Towards a metagenomics machine learning interpretable model for understanding the transition from adenoma to colorectal cancer Carlos S Casimiro-Soriguer, Carlos Loucera, María Peña-Chilet, Joaquin Dopazo Scientific Reports, 12 (1), 450 (DOI: 10.1038/s41598-021-04182-y)  Aggregated genomic data as cohort-specific allelic frequencies can boost variants and genes prioritization in non-solved cases of inherited retinal dystrophies Ionut-Florin Iancu, Irene Perea-Romero, Gonzalo Núñez-Moreno, Lorena de la Fuente, Raquel Romero, Almudena Ávila-Fernandez, María José Trujillo-Tiebas, Rosa Riveiro-Álvarez, Berta Almoguera, Inmaculada Martín-Mérida, Marta Del Pozo-Valero, Alejandra Damián-Verde, Marta Cortón, Carmen Ayuso, Pablo Minguez medRxiv 2022.</description>
+    </item>
+    
+    <item>
+      <title>Casos de Uso</title>
+      <link>http://impact-data.bsc.es/about/usecases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/about/usecases/</guid>
+      <description>Medicina Preventiva     Cáncer Raro y Hereditario     Enfermedades Raras     Fármaco-genómica  Detección de relaciones entre eficacia y reacción a fármacos y condiciones genómicas.       </description>
+    </item>
+    
+    <item>
+      <title>Consorcio</title>
+      <link>http://impact-data.bsc.es/about/partners/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/about/partners/</guid>
+      <description>Socios  Colaboradores   Centro Nacional de Supercomputación - Centro Nacional de Supercomputación
+Cataluña
+  Fundación Centro de Investigación Príncipe Felipe
+Comunidad Valenciana
+  Fundación Centro Nacional de Investigaciones Cardiovasculares
+Comunidad de Madrid
+  Fundación Centro Nacional de Investigaciones Oncológicas
+Comunidad de Madrid
+  Fundación Centro de Regulación Genómica
+Cataluña
+  Agencia Estatal Consejo Superior de Investigaciones Científicas
+Castilla y León
+  Agencia Estatal Consejo Superior de Investigaciones Científicas</description>
+    </item>
+    
+    <item>
+      <title>Convocatorias ISCIII</title>
+      <link>http://impact-data.bsc.es/about/isciii_calls/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/about/isciii_calls/</guid>
+      <description>Consideraciones Adicionales para las Convocatorias del ISCIII asociadas a IMPaCT El pilar de Ciencia de Datos de la Infraestructura de Medicina de Precisión asociada a la Ciencia y la Tecnología (IMPaCT-Data) trabaja con más de 60 grupos en 47 instituciones para elaborar una serie de recomendaciones, buenas prácticas y proveer demostradores tecnológicos para su uso por parte de la comunidad biomédica en España. En el siguiente enlace web se puede acceder a las recomendaciones actuales, https://impact-data.</description>
+    </item>
+    
+    <item>
+      <title>Entregables proyecto</title>
+      <link>http://impact-data.bsc.es/outcomes/deliverables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/outcomes/deliverables/</guid>
+      <description>WP ID Título Fecha entrega     WP1 E1.0.1  Indicadores de IMPaCT-Data (1er año) 31/12/2021   WP1 E1.0.2  Indicadores de IMPaCT-Data (2o año) 31/12/2022   WP1 E1.0.3  Indicadores de IMPaCT-Data (3er año) 31/12/2023   WP1 E1.1.1  Coordinación Seguimiento Proyecto IMPaCT (1er año) 31/12/2021   WP1 E1.1.2  Coordinación Seguimiento Proyecto IMPacT (2o año) 31/12/2022   WP1 E1.1.3  Coordinación Seguimiento Proyecto IMPaCT (3er año) 31/12/2023   WP1 E1.</description>
+    </item>
+    
+    <item>
+      <title>Herramientas software</title>
+      <link>http://impact-data.bsc.es/outcomes/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/outcomes/software/</guid>
+      <description>Las herramientas software para el análisis de datos de IMPaCT-Data se pueden encontrar en el dominio IMPaCT-Data  de acceso público en bio.tools. Bio.tools  es un registro de componentes software y bases de datos dirigida a investigadores en el campo de las ciencias biológicas y biomédicas para facilitarles el trabajo de encontrar, entender, utilizar y citar recursos de uso diario.      hipathia Hipathia is a method for the computation of signal transduction along signaling pathways from transcriptomic data.</description>
+    </item>
+    
+    <item>
+      <title>Herramientas virtualizadas</title>
+      <link>http://impact-data.bsc.es/outcomes/containers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/outcomes/containers/</guid>
+      <description>consulta al repositorio de contenedores (bioconda), cuando tengamos</description>
+    </item>
+    
+    <item>
+      <title>Hoja de ruta</title>
+      <link>http://impact-data.bsc.es/about/roadmap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/about/roadmap/</guid>
+      <description>Diciembre 2021 - Requisitos técnicos    Se identifican los requisitos técnicos para las diferentes tecnologías necesarias:  Requisitos técnicos para el despliegue de una instancia local de EGA Requisitos técnicos para el despliegue de Beacon para el descubrimiento de datos Estado de la práctica de la tecnología para el diseño de la nube de IMPaCT-Data   Definición de los casos de uso  Junio 2022 - Demostrador tecnologicamente y Estado del arte   Desmostración de la nube federada de IMPaCT-Data, desplegada en varios nodos y proporcionando:  acceso controlado a usuarios acceso a datos públicos workflow de análisis de prueba   Estado del arte de anotación de datos:  Estado del arte en anotación de datos de historia clínica Estado del arte en anotación de datos de imagen Estado del arte en anotación de datos genómicos   Técnicas de integración de datos de historia clínica, imagen y genómicos Guías de buenas prácticas para el desarrollo de componentes software de investigación Recomendaciones sobre los aspectos de seguridad en la gestión de datos sensibles Definición interfaces instancias EGA comunidad  Septiembre 2022 - Catálogos de herramientas  Se recopilan diferentes herramientas software para el análisis de datos de datos genómicos, de historia clínica e imagen:</description>
+    </item>
+    
+    <item>
+      <title>IMPaCT</title>
+      <link>http://impact-data.bsc.es/about/impact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/about/impact/</guid>
+      <description>Misión IMPaCT tiene como misión establecer los pilares para facilitar el despliegue efectivo de Medicina de Precisión en el Sistema Nacional de Salud, asegurando la calidad científico-técnica, la equidad y la eficiencia en la utilización de los recursos científicos disponibles para dar respuesta a las necesidades de la ciudadanía.
+Visión Constituirse como infraestructura científica de referencia para el desarrollo de la Medicina de Precisión en España para una medicina más segura, eficiente, preventiva y predictiva.</description>
+    </item>
+    
+    <item>
+      <title>IMPaCT - Data</title>
+      <link>http://impact-data.bsc.es/about/impact-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/about/impact-data/</guid>
+      <description>Misión IMPaCT-Data es el programa de IMPaCT (Infraestructura de Medicina de Precisión asociada a la Ciencia y la Tecnología) que se orienta al desarrollo y validación de un entorno de integración y análisis conjunto de datos clínicos, moleculares y genéticos, para su uso secundario de forma coordinada con los otros programas de IMPaCT. De igual manera, este programa generará modelos que permitan responder de forma eficiente a preguntas relevantes para el SNS promoviendo la generación de conocimiento de alto nivel basado en estas aproximaciones.</description>
+    </item>
+    
+    <item>
+      <title>Nube IMPaCT-Data</title>
+      <link>http://impact-data.bsc.es/outcomes/cloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/outcomes/cloud/</guid>
+      <description>La nube de IMPaCT-Data va a ofrecer un entorno de trabajo virtual en el que se va a poder analizar datos públicos y de acceso controlado. La nube permitirá el análisis de datos genómicos, de historia clínica y de imagen médica, proporcionando los siguientes servicios:
+ acceso a datos públicos y de acceso controlado análisis utilizando las herramientas que la plataforma proporciona análisis utilizando los workflows que la plataforma proporciona  Demo (junio 2022) Prueba de concepto de la nube de IMPaCT-Data incluyendo:</description>
+    </item>
+    
+    <item>
+      <title>Ofertas de Trabajo</title>
+      <link>http://impact-data.bsc.es/about/joboffers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/about/joboffers/</guid>
+      <description>   Descripción Institución Fecha publicación Fecha límite     Doctor/a para desarrollos bioinformáticos en el Departamento de Biología Molecular y Bioquímica. Universidad de Málaga (UMA) 12/07/2022 22/07/2022     window.onload = function() { $(&#34;div.holder&#34;).jPages({ containerID: &#34;itemContainer&#34;, perPage: 5 }); }  </description>
+    </item>
+    
+    <item>
+      <title>Plan de Trabajo</title>
+      <link>http://impact-data.bsc.es/about/workplan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/about/workplan/</guid>
+      <description>El plan de trabajo de IMPaCT-Data está detallado en el plan estratégico de IMPaCT, disponible en la web del Instituto Carlos III (ISCIII).
+El trabajo está distribuido en 6 paquetes de trabajo (WP por sus siglas en inglés - Work package). Los detalles de los entregables de los paquetes de trabajo están accesibles en las entregables del proyecto.
+   WP1. COORDINACIÓN   Coordinación del proyecto.
+ Tareas: Coordinación con los otros dos programas de IMPaCT.</description>
+    </item>
+    
+    <item>
+      <title>Procesos ejecutables</title>
+      <link>http://impact-data.bsc.es/outcomes/workflows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/outcomes/workflows/</guid>
+      <description>Consulta al repositorio de workflows, cuando lo tengamos</description>
+    </item>
+    
+    <item>
+      <title>Recomendaciones</title>
+      <link>http://impact-data.bsc.es/outcomes/guidelines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/outcomes/guidelines/</guid>
+      <description>IMPaCT-Data proporciona guías y recomendaciones para dar soporte a los investigadores en el análisis de sus datos.
+Recomendaciones de IMPaCT-Data sobre datos y software Documento con las recomendaciones del programa de Ciencia de Datos de IMPaCT (IMPaCT-Data) referente a la estandarización de los datos biomédicos para facilitar su interoperabilidad, acceso y gobernanza a través de sus distintos paquetes de trabajo.    window.onload = function() { $(&#34;div.holder&#34;).jPages({ containerID: &#34;itemContainer&#34;, perPage: 5 }); }  </description>
+    </item>
+    
+  </channel>
+</rss>

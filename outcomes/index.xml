@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resultados on IMPaCT-Data. Infraestructura de Medicina de Precisión asociada a la Ciencia y la Tecnología</title>
+    <link>http://impact-data.bsc.es/outcomes/</link>
+    <description>Recent content in Resultados on IMPaCT-Data. Infraestructura de Medicina de Precisión asociada a la Ciencia y la Tecnología</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language><atom:link href="http://impact-data.bsc.es/outcomes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artículos</title>
+      <link>http://impact-data.bsc.es/outcomes/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/outcomes/papers/</guid>
+      <description>Discovering potential interactions between rare diseases and COVID-19 by combining mechanistic models of viral infection with statistical modeling López-Sánchez M, Loucera C, Peña-Chilet M, Dopazo J. Human Molecular Genetics, Jan 2022, ddac007 (DOI: 10.1093/hmg/ddac007 )  Towards a metagenomics machine learning interpretable model for understanding the transition from adenoma to colorectal cancer Carlos S Casimiro-Soriguer, Carlos Loucera, María Peña-Chilet, Joaquin Dopazo Scientific Reports, 12 (1), 450 (DOI: 10.1038/s41598-021-04182-y)  Aggregated genomic data as cohort-specific allelic frequencies can boost variants and genes prioritization in non-solved cases of inherited retinal dystrophies Ionut-Florin Iancu, Irene Perea-Romero, Gonzalo Núñez-Moreno, Lorena de la Fuente, Raquel Romero, Almudena Ávila-Fernandez, María José Trujillo-Tiebas, Rosa Riveiro-Álvarez, Berta Almoguera, Inmaculada Martín-Mérida, Marta Del Pozo-Valero, Alejandra Damián-Verde, Marta Cortón, Carmen Ayuso, Pablo Minguez medRxiv 2022.</description>
+    </item>
+    
+    <item>
+      <title>Entregables proyecto</title>
+      <link>http://impact-data.bsc.es/outcomes/deliverables/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/outcomes/deliverables/</guid>
+      <description>WP ID Título Fecha entrega     WP1 E1.0.1  Indicadores de IMPaCT-Data (1er año) 31/12/2021   WP1 E1.0.2  Indicadores de IMPaCT-Data (2o año) 31/12/2022   WP1 E1.0.3  Indicadores de IMPaCT-Data (3er año) 31/12/2023   WP1 E1.1.1  Coordinación Seguimiento Proyecto IMPaCT (1er año) 31/12/2021   WP1 E1.1.2  Coordinación Seguimiento Proyecto IMPacT (2o año) 31/12/2022   WP1 E1.1.3  Coordinación Seguimiento Proyecto IMPaCT (3er año) 31/12/2023   WP1 E1.</description>
+    </item>
+    
+    <item>
+      <title>Herramientas software</title>
+      <link>http://impact-data.bsc.es/outcomes/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/outcomes/software/</guid>
+      <description>Las herramientas software para el análisis de datos de IMPaCT-Data se pueden encontrar en el dominio IMPaCT-Data  de acceso público en bio.tools. Bio.tools  es un registro de componentes software y bases de datos dirigida a investigadores en el campo de las ciencias biológicas y biomédicas para facilitarles el trabajo de encontrar, entender, utilizar y citar recursos de uso diario.      hipathia Hipathia is a method for the computation of signal transduction along signaling pathways from transcriptomic data.</description>
+    </item>
+    
+    <item>
+      <title>Herramientas virtualizadas</title>
+      <link>http://impact-data.bsc.es/outcomes/containers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/outcomes/containers/</guid>
+      <description>consulta al repositorio de contenedores (bioconda), cuando tengamos</description>
+    </item>
+    
+    <item>
+      <title>Nube IMPaCT-Data</title>
+      <link>http://impact-data.bsc.es/outcomes/cloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/outcomes/cloud/</guid>
+      <description>La nube de IMPaCT-Data va a ofrecer un entorno de trabajo virtual en el que se va a poder analizar datos públicos y de acceso controlado. La nube permitirá el análisis de datos genómicos, de historia clínica y de imagen médica, proporcionando los siguientes servicios:
+ acceso a datos públicos y de acceso controlado análisis utilizando las herramientas que la plataforma proporciona análisis utilizando los workflows que la plataforma proporciona  Demo (junio 2022) Prueba de concepto de la nube de IMPaCT-Data incluyendo:</description>
+    </item>
+    
+    <item>
+      <title>Procesos ejecutables</title>
+      <link>http://impact-data.bsc.es/outcomes/workflows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/outcomes/workflows/</guid>
+      <description>Consulta al repositorio de workflows, cuando lo tengamos</description>
+    </item>
+    
+    <item>
+      <title>Recomendaciones</title>
+      <link>http://impact-data.bsc.es/outcomes/guidelines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://impact-data.bsc.es/outcomes/guidelines/</guid>
+      <description>IMPaCT-Data proporciona guías y recomendaciones para dar soporte a los investigadores en el análisis de sus datos.
+Recomendaciones de IMPaCT-Data sobre datos y software Documento con las recomendaciones del programa de Ciencia de Datos de IMPaCT (IMPaCT-Data) referente a la estandarización de los datos biomédicos para facilitar su interoperabilidad, acceso y gobernanza a través de sus distintos paquetes de trabajo.    window.onload = function() { $(&#34;div.holder&#34;).jPages({ containerID: &#34;itemContainer&#34;, perPage: 5 }); }  </description>
+    </item>
+    
+  </channel>
+</rss>
